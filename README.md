@@ -1,2 +1,4 @@
-this project is bade on building a travel egency website using html and css 
-i am safa mahin and  i am in 1st year student of enginearing in AIML branch.
+🕋 Umrah Travel Website
+
+A simple and responsive Umrah travel booking website built using HTML, CSS, and basic JavaScript (optional).
+This project helps users explore Umrah packages, book their trips easily, and contact the agency directly.
